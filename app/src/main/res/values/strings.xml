@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Player stats</string>
+    <string name="login"><u><b>login</b></u></string>
+    <string name="checkbox">I agree to <u>Terms and Conditions</u>&amp;<u>Privacy Policy</u></string>
+    <string name="title"><u>NFL TOTAL QBR - 2020 SEASON LEADERS</u></string>
+
+</resources>
